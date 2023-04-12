@@ -1,0 +1,33 @@
+[{
+"dateAsString" : "14-04-2022",
+"longitude" :  -73.935242,
+"day" : 14,
+"latitude" : 40.730610,
+"timeZone" : "-0400",
+"timeAsString" : "18:24:05",
+"year" : 2022,
+"weekdayAsString" : "Thursday",
+"month" : 4,
+"minute" : 24,
+"second" : 4,
+"hour" : 18,
+"dateAndTimeUTC" : "2022-04-14T18:24:05-0400"
+},
+ 
+{
+    "dateAsString" : "14-04-2022",
+    "longitude" :  -73.935242,
+    "day" : 14,
+    "latitude" : 40.730610,
+    "timeZone" : "-0400",
+    "timeAsString" : "18:24:05",
+    "year" : 2022,
+    "weekdayAsString" : "Thursday",
+    "month" : 4,
+    "minute" : 24,
+    "second" : 4,
+    "hour" : 18,
+    "dateAndTimeUTC" : "2022-04-14T18:24:05-0400"
+
+}
+]
